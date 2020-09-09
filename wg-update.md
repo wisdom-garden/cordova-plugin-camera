@@ -4,3 +4,11 @@
 
 - android
   * fix android support v4 package reference
+
+### wg versoin: 2
+
+set version = 4.1.0, 5.0.0 sose not exist in npm
+
+### wg versoin: 3
+
+ignore *.tgz

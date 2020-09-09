@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-camera",
-  "version": "5.0.0-dev",
-  "wgVersoin": "1",
+  "version": "4.1.0",
+  "wgVersoin": "3",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
